@@ -8,7 +8,7 @@ python -m venv hqdiesel_album_scrapping
 A terminal will get opened like
 `(hqdiesel_album_scrapping) C\...\hqdiesel_album_scrapping>`
 ```
-pip install -r /path/to/requirements.txt
+pip install -r requirements.txt
 ```
 ### 3.Running script
 ```
