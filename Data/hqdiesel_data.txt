@@ -1,0 +1,6 @@
+max_album_no=3432
+url="https://hqdiesel.net/thumbnails.php?album="
+photoshootonly_albums=775,female=540,other=235
+Alternative
+url="https://www.hq-pictures.com/thumbnails.php?album="
+max_albums=2436
