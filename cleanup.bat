@@ -1,0 +1,1 @@
+FOR /F "eol=; tokens=* usebackq " %%i in (`dir /b *(Photoshoots?`) do @rd /s /q " %%i"

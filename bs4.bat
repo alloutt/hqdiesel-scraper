@@ -1,0 +1,1 @@
+start cmd.exe /k "cd Scripts && activate.bat && cd .. && dir *.py,*.bat"
