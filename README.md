@@ -14,4 +14,4 @@ pip install -r requirements.txt
 ```
 python scrape.py
 ```
-took reference from this repo(https://github.com/falcon883/hqdiesel-album-scraper)
+took reference from this repo for main code(https://github.com/falcon883/hqdiesel-album-scraper)
