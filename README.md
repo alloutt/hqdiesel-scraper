@@ -2,11 +2,11 @@
 ## Steps to install:
 ### 1.Create python venv
 ```python
-python -m venv hqdiesel_album_scrapping
+python -m venv hqdiesel-scraper
 ```
 ### 2.Click on bs4.bat
 A terminal will get opened like
-`(hqdiesel_album_scrapping) C\...\hqdiesel_album_scrapping>`
+`(hqdiesel-scraper) C\...\hqdiesel-scraper>`
 ```
 pip install -r requirements.txt
 ```
