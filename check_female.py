@@ -13,5 +13,5 @@ with open(Filepath) as file:
             continue
         tables = bs.find_all('table', {'class': 'maintable'})
         for a in tables[0].find_all('a', href=True):
-            if str(a['href']) == "index.php?cat=230":
+            if str(a['href']) == "index.php?cat=230":#cat=7 for male
                 print(item)
