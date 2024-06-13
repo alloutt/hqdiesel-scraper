@@ -60,3 +60,5 @@ Cleans the Downloaded Photoshoot Folders
 ### bs4.bat (Windows)(Offline)
 Just a faster venv launcher
 
+### Data (folder)
+Contains data extrated during testing
