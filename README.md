@@ -16,7 +16,7 @@ python scrape.py
 ```
 took reference from this repo for main code(https://github.com/falcon883/hqdiesel-album-scraper)
 
-# For Experts
+## Extra Details
 
 ### scrape_photoshoots_only.py 
 **Purpose** : It will filter photoshoot only albums from given range of albums mentioned inside the script file and download automatically.
@@ -26,7 +26,7 @@ python scarpe_photoshoots_only.py
 *Don't forget to edit range inside script*
 
 ### get_photoshoot_urls.py
-**Purpose**:It will print only photoshootsalbum urls on console without downloading.
+**Purpose** : It will print only photoshoots album urls on console without downloading.
 ```
 python get_photoshoot_urls.py
 ```
@@ -51,14 +51,17 @@ python check_female.py >> female_photoshoot_urls.txt
 python get_names.py
 ```
 
-### Random.bat (Windows)(Offline)
+### Search_female.bat 
+Searches album details by name
+
+### Random.bat
 Just a Pseudo-random generator `range:1-540`*editable*
 
-### cleanup.bat (Windows)(Offline)
+### cleanup.bat
 Cleans the Downloaded Photoshoot Folders
 
-### bs4.bat (Windows)(Offline)
+### bs4.bat
 Just a faster venv launcher
 
-### Data (folder)
+### Data
 Contains data extrated during testing
